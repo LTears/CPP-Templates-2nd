@@ -3,7 +3,7 @@ C++ Templates - The Complete Guide, 2nd Edition
 *权威的C++模板指南*
 -------------------------
 - 作者：David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor
-- 译者：杜松
+- 译者：LTears
 
 ## 整体结构
 
